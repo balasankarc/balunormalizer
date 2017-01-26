@@ -32,7 +32,7 @@ Output: Normalized unicode text
 For more details read the [docs](http://indicstemmer.rtfd.org/)
 
 ## Running tests
-To run tests, 
+To run tests do the following
 
 ```
 cd normalizer
